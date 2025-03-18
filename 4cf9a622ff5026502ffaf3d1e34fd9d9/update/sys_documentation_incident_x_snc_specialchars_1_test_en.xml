@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="x_snc_specialchars_1_test" label="&amp;#1;test" language="en" table="incident">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>x_snc_specialchars_1_test</element>
+            <help/>
+            <hint/>
+            <label>&amp;#1;test</label>
+            <language>en</language>
+            <name>incident</name>
+            <plural>&amp;#1;tests</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>shaun.elliot@snc</sys_created_by>
+            <sys_created_on>2025-03-18 14:01:47</sys_created_on>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>&amp;#1;test</sys_name>
+            <sys_package display_value="specialChars" source="x_snc_specialchars">4cf9a622ff5026502ffaf3d1e34fd9d9</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="specialChars">4cf9a622ff5026502ffaf3d1e34fd9d9</sys_scope>
+            <sys_update_name>sys_documentation_incident_x_snc_specialchars_1_test_en</sys_update_name>
+            <sys_updated_by>shaun.elliot@snc</sys_updated_by>
+            <sys_updated_on>2025-03-18 14:01:47</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

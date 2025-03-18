@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element attributes="all_tables.query_hints=true,email_client=true,hasLabels=true,hasWorkflow=true,live_feed=true,wwna_skill_id=c5870faa20e22110f877d3d1bc36dd87" audit="true" db_object_id="6ab5a89cff8102102ffaf3d1e34fd921" extends="task" label="Incident" max_length="40" name="incident" text_index="true" type="collection">
+        <element label="&amp;#1;test" max_length="40" name="x_snc_specialchars_1_test" type="string"/>
+    </element>
+</database>
